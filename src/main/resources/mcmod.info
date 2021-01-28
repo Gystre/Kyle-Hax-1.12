@@ -1,0 +1,16 @@
+[
+{
+  "modid": "kylehax",
+  "name": "KyleHax",
+  "description": "pretty cool :)",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Kyle"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
